@@ -38,7 +38,7 @@ Headlines and short summaries come from the feeds; **Read full story** opens the
 - **Works offline** — the last feed is cached on the device and shown when the network is unavailable, with automatic retries and backoff.
 - **Right-to-left ready** — Persian/Arabic headlines render correctly (the Vazirmatn font is loaded for them).
 - **Installable** — a web app manifest is embedded in the file, so it can be added to a phone's home screen and run full-screen.
-- **Keyboard and screen-reader friendly** — focus trapping in overlays, live-region announcements, skip link, roving focus.
+- **Keyboard and screen-reader friendly** — focus trapping in overlays, live-region announcements, a skip link, arrow-key navigation between stories and `/` to search.
 
 ## Get it
 
